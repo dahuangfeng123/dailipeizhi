@@ -1,0 +1,12 @@
+payload:
+
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,recaptcha.net
